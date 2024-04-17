@@ -23,9 +23,7 @@ const Rightbar = ({ profile }) => {
     );
   };
 
-  const ProfileRightBar = () => {
-    return <></>;
-  };
+  const ProfileRightBar = () => {};
 
   return (
     <>

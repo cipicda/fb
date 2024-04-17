@@ -9,8 +9,8 @@ const App = () => {
   return (
     <>
       <Home />
-      {/* <Profile />
-      <Login />
+      {/* <Profile /> */}
+      {/* <Login />
       <Register /> */}
     </>
   );
