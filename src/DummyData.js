@@ -19,7 +19,7 @@ export const Users = [
 export const Posts = [
   {
     id: 1,
-    desc: "Love For All, Hatred For None.",
+    desc: "La Drum.",
     photo: "assets/post/1.jpeg",
     date: "5 mins ago",
     userId: 1,
@@ -28,6 +28,7 @@ export const Posts = [
   },
   {
     id: 2,
+    desc: "Anu Carasuluiiiii",
     photo: "assets/post/2.jpeg",
     date: "15 mins ago",
     userId: 2,
@@ -36,7 +37,7 @@ export const Posts = [
   },
   {
     id: 3,
-    desc: "Every moment is a fresh beginning.",
+    desc: "La bunica la spart lemne, P.S e intre brazi",
     photo: "assets/post/3.jpeg",
     date: "1 hour ago",
     userId: 3,
