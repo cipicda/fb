@@ -22,57 +22,39 @@ const Sidebar = () => {
           <ul className="sidebarList">
             <li className="sidebarListItem">
               <RssFeedIcon className="sidebarIcon" />
-              <span className="sidebarListItemText">
-                <button>Feed</button>
-              </span>
+              <span className="sidebarListItemText">Feed</span>
             </li>
             <li className="sidebarListItem">
               <Chat className="sidebarIcon" />
-              <span className="sidebarListItemText">
-                <button>Chat</button>
-              </span>
+              <span className="sidebarListItemText">Chat</span>
             </li>
             <li className="sidebarListItem">
               <PlayCircle className="sidebarIcon" />
-              <span className="sidebarListItemText">
-                <button>Video</button>
-              </span>
+              <span className="sidebarListItemText">Video</span>
             </li>
             <li className="sidebarListItem">
               <Group className="sidebarIcon" />
-              <span className="sidebarListItemText">
-                <button>Group</button>
-              </span>
+              <span className="sidebarListItemText">Group</span>
             </li>
             <li className="sidebarListItem">
               <Bookmark className="sidebarIcon" />
-              <span className="sidebarListItemText">
-                <button>Bookmarks</button>
-              </span>
+              <span className="sidebarListItemText">Bookmarks</span>
             </li>
             <li className="sidebarListItem">
               <HelpOutline className="sidebarIcon" />
-              <span className="sidebarListItemText">
-                <button>Questions</button>
-              </span>
+              <span className="sidebarListItemText">Questions</span>
             </li>
             <li className="sidebarListItem">
               <WorkOutline className="sidebarIcon" />
-              <span className="sidebarListItemText">
-                <button>Jobs</button>
-              </span>
+              <span className="sidebarListItemText">Jobs</span>
             </li>
             <li className="sidebarListItem">
               <CalendarToday className="sidebarIcon" />
-              <span className="sidebarListItemText">
-                <button>Events</button>
-              </span>
+              <span className="sidebarListItemText">Events</span>
             </li>
             <li className="sidebarListItem">
               <School className="sidebarIcon" />
-              <span className="sidebarListItemText">
-                <button>Courses</button>
-              </span>
+              <span className="sidebarListItemText">Courses</span>
             </li>
           </ul>
 
